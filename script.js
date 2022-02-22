@@ -1,4 +1,5 @@
-function test(){}
+console.log(d3.version);
+
 
 
 
